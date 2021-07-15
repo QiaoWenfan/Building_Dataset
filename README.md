@@ -9,4 +9,4 @@ The Zhengzhou-Xi’an HSR Line Building Dataset is displayed in file "[2] Zhengz
 
 The Beijing-Shanghai HSR Line Building Dataset is displayed in file "[3] Beijing-Shanghai HSR Line Building Dataset Display.pdf".
 
-Three original images and corresponding labeled samples are provided in "Data Samples" folder.
+Three original images and corresponding labeled samples are provided in "Data Samples" folder. We will open all the data in the dataset later to support related scientific research.
