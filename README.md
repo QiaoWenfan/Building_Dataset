@@ -10,3 +10,9 @@ The Zhengzhou-Xi’an HSR Line Building Dataset is displayed in file "[2] Zhengz
 The Beijing-Shanghai HSR Line Building Dataset is displayed in file "[3] Beijing-Shanghai HSR Line Building Dataset Display.pdf".
 
 Three original images and corresponding labeled samples are provided in "Data Samples" folder. We will open all the data in the dataset later to support related scientific research.
+
+The image block collection and distribution diagram of the dataset is shown below.
+
+
+
+We have developed a set of web-based online potential hazardous building information identification system along the high-speed rail line, which has achieved excellent test performance in the Zhengzhou-Xi'an high-speed rail line. We expecte the system can provide service for the accurate investigation of potential hazardous building in all high-speed rail lines in the future.
