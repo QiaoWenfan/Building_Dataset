@@ -13,7 +13,9 @@ Three original images and corresponding labeled samples are provided in "Data Sa
 
 The image block collection and distribution diagram of the dataset is shown below.
 
+<img src="https://github.com/QiaoWenfan/Building_Dataset/blob/main/image/img1.png" alt="show" />
 
+<img src="https://github.com/QiaoWenfan/Building_Dataset/blob/main/image/img2.png" alt="show" />
 
 We have developed a set of web-based online potential hazardous building information identification system along the high-speed rail line, which has achieved excellent test performance in the Zhengzhou-Xi'an high-speed rail line. We expecte the system can provide service for the accurate investigation of potential hazardous building in all high-speed rail lines in the future.
 
