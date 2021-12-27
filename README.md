@@ -19,6 +19,8 @@ The image block collection and distribution diagram of the dataset is shown belo
 
 We have developed a set of web-based online potential hazardous building information identification system along the high-speed rail line, which has achieved excellent test performance in the Zhengzhou-Xi'an high-speed rail line. We expecte the system can provide service for the accurate investigation of potential hazardous building in all high-speed rail lines in the future.
 
-
+<img src="https://github.com/QiaoWenfan/Building_Dataset/blob/main/image/GIF1.gif" alt="show" />
 
 Based on our high-speed rail line building dataset, our trained FCN model is applied to building extraction in the entire Zhengzhou-Xi'an high-speed rail line (484 km, 1 km on both sides of line). The results can be shown below. It prove the usability of our proposed dataset and the effectiveness of our proposed method. 
+
+<img src="https://github.com/QiaoWenfan/Building_Dataset/blob/main/image/GIF2.gif" alt="show" />
