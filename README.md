@@ -1,4 +1,4 @@
-# Building Dataset
+# HSR Dataset
 High-speed Rail Line Building Dataset Display
 
 This Project is created to introduce and display our proposed High-speed Rail Line (HSR) Building Dataset.The dataset is the first large-span and high-precision pixel-level semantic segmentation dataset of buildings along high-speed rail line in China. Compared with the existing public building datasets, it has obvious advantages in many aspects and can provide important data support for data-driven machine learning methods in the future.
