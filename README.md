@@ -11,7 +11,9 @@ The Beijing-Shanghai HSR Line Building Dataset is displayed in file "[3] Beijing
 
 Three original images and corresponding labeled samples are provided in "Data Samples" folder. We will open all the data in the dataset later to support related scientific research.
 
-All data of our proposed HSR dataset can be previewed in "HSR_dataset" folder.
+All data of our proposed HSR dataset can be previewed in the "HSR_dataset" folder.
+
+The proposed method can be found in the "FANet" folder and the results can be found in the "results_HSR" folder.
 
 The image block collection and distribution diagram of the dataset is shown below.
 
